@@ -4,8 +4,8 @@ Plugin Name: MultiversX NFT Category & Page Gater
 Plugin URI: https://github.com/yourusername/mvx-nft-category-gater
 Description: Restreint l'accès aux articles et pages selon la possession d'un NFT ou d'un Token ID spécifique sur la blockchain MultiversX.
 Version: 1.1.0
-Author: Antigravity
-Author URI: https://elvenjs.com
+Author: TEMOANA
+Author URI: https://temoana.net
 Text Domain: mvx-nft-category-gater
 License: GPL2
 */
