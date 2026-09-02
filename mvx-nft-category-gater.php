@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: MultiversX NFT Gater
-Plugin URI: https://github.com/TEMOANA/Plugin-WP---NFTgate-des-pages
+Plugin URI: https://github.com/TEMOANA/MultiversX-NFT-Gater
 Description: Permet de restreindre l'accès à des articles ou pages selon la possessoin d'un NFT ou d'un Token ID sur la blockchain MultiversX. Développé à l'aide d'Antigravity et founi tel quel sans garantie.
 Version: 1.1.0
 Author: TEMOANA
